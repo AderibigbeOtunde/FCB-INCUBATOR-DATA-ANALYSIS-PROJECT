@@ -1,1 +1,10 @@
 # FCB-INCUBATOR-DATA-ANALYSIS-PROJECT
+
+## INTRODUCTION 
+
+## DATA SOURCE
+
+## DATA TOOL
+Excel for cleaning date [
+
+
